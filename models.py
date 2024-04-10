@@ -9,6 +9,5 @@ class Item(BaseModel):
 class RequestItem(BaseModel):
     name: str
     description: str
-    price: str
+    price: float
 
-ß
