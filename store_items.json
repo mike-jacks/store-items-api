@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "A high performance laptop suitable for all your programming needs.",
+        "price": 1199.99
+    },
+    {
+        "id": 2,
+        "name": "Keyboard",
+        "description": "Mechanical keyboard with RGB lighting. And blank keycaps, of course.",
+        "price": 150.00
+    },
+    {
+        "id": 3,
+        "name": "Mouse",
+        "description": "Wireless mouse with high precision for gaming.",
+        "price": 75.25
+    }
+]
